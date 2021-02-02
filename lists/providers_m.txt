@@ -76,6 +76,7 @@
 #
 #-------------------------------------[GOOGLE]-------------------------------------
 #
+*google.com
 # Google | Marketing
 0.0.0.0 ads.youtube.com
 0.0.0.0 googleadservices.com
