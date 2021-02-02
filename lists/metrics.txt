@@ -1,0 +1,35 @@
+
+#------------------------------------[UPDATE]--------------------------------------
+# Title:    Metrics
+# Expires:  N/A
+# Homepage: 
+# Help:     
+# License:  https://unlicense.org
+# Filters:  0 (see count on the load / import page)
+#------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation
+#-------------------------------------[INFO]---------------------------------------
+#
+#--------------------------------[REMOVED FILTERS]---------------------------------
+#
+# Example 1
+# 0.0.0.0 example1.com
+#
+# Example 2
+# 0.0.0.0 example2.com
+#
+#--------------------------------[ACTIVE  FILTERS]---------------------------------
+#
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 app-measurement.com
+0.0.0.0 browser-update.org
+0.0.0.0 updatemybrowser.org
+0.0.0.0 crashlytics.com
+0.0.0.0 bugsnag.com
+0.0.0.0 improving.duckduckgo.com
+0.0.0.0 mixpanel.com
+0.0.0.0 adjust.com # Godaddy
+0.0.0.0 appsflyer.com # Godaddy
+0.0.0.0 trackjs.com
