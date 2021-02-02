@@ -14,10 +14,10 @@
 #--------------------------------[REMOVED FILTERS]---------------------------------
 #
 # Example 1
-# 0.0.0.0 example1.com
+# 0.0.0.0 example1.com                                                  ### Allow
 #
 # Example 2
-# 0.0.0.0 example2.com
+# 0.0.0.0 example2.com                                                  ### Allow
 #
 #--------------------------------[ACTIVE  FILTERS]---------------------------------
 #
@@ -72,7 +72,7 @@
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.facebook.net
-# 0.0.0.0 graph.instagram.com                       ### Allow
+# 0.0.0.0 graph.instagram.com                                           ### Allow
 #
 #-------------------------------------[GOOGLE]-------------------------------------
 #
