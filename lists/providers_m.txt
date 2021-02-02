@@ -1,0 +1,152 @@
+#------------------------------------[UPDATE]--------------------------------------
+# Title:    Providers
+# Expires:  N/A
+# Homepage: m
+# Help:     
+# License:  https://unlicense.org
+# Filters:  0 (see count on the load / import page)
+#------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation
+#-------------------------------------[INFO]---------------------------------------
+#
+#--------------------------------[REMOVED FILTERS]---------------------------------
+#
+# Example 1
+# 0.0.0.0 example1.com
+#
+# Example 2
+# 0.0.0.0 example2.com
+#
+#--------------------------------[ACTIVE  FILTERS]---------------------------------
+#
+#-------------------------------------[APPLE]--------------------------------------
+#
+# Apple | Metrics
+0.0.0.0 fbs.smoot.apple.com
+0.0.0.0 radarsubmissions.apple.com
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 securemvt.apple.com
+0.0.0.0 smoot-feedback.v.aaplimg.com
+0.0.0.0 configuration.apple.com
+0.0.0.0 iphonesubmissions.apple.com
+0.0.0.0 captive.apple.com
+0.0.0.0 apple-cloudkit.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 aaplimg.com
+#
+# Apple | Location
+0.0.0.0 gs-loc.apple.com
+0.0.0.0 ls.apple.com
+0.0.0.0 lcdn-locator.apple.com
+#
+# Apple | Apps
+0.0.0.0 icloud.com
+0.0.0.0 stocks-sparkline.apple.com
+0.0.0.0 stocks-edge.apple.com
+0.0.0.0 stocks-edge.news.apple-dns.net
+0.0.0.0 apple.news
+0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
+0.0.0.0 apple-finance.query.yahoo.com
+0.0.0.0 weather-data.apple.com
+0.0.0.0 push.apple.com
+0.0.0.0 ocsp.apple.com
+0.0.0.0 time.apple.com
+#
+# Apple | DNS
+0.0.0.0 apple-dns.net
+0.0.0.0 itunes-apple.com.akadns.net
+0.0.0.0 apple.com.akadns.net
+0.0.0.0 dns.apple.com
+#
+# Apple | Others
+0.0.0.0 pancake.apple.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 kt-prod.apple.com
+0.0.0.0 apple.com.edgekey.net
+#
+#------------------------------------[FACEBOOK]------------------------------------
+#
+# Facebook | Metrics
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.facebook.net
+# 0.0.0.0 graph.instagram.com                       ### Allow
+#
+#-------------------------------------[GOOGLE]-------------------------------------
+#
+# Google | Marketing
+0.0.0.0 ads.youtube.com
+0.0.0.0 googleadservices.com
+#
+# Google | Metrics
+0.0.0.0 google-analytics.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 auditrecording-pa.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 deviceintegritytokens-pa.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 mobilenetworkscoring-pa.googleapis.com
+0.0.0.0 safebrowsing.googleapis.com
+#
+# Google | Others
+0.0.0.0 mtalk.google.com
+0.0.0.0 gstatic.com
+#
+#-------------------------------------[HUAWEI]-------------------------------------
+#
+# Huawei
+0.0.0.0 hicloud.com
+#
+#-----------------------------------[MICROSOFT]------------------------------------
+#
+# Microsoft | Metrics
+0.0.0.0 collector.githubapp.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 graph.windows.net
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 targetednotifications-tm.trafficmanager.net
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+#
+# Microsoft | Others
+0.0.0.0 business.bing.com
+0.0.0.0 messaging.office.com
+0.0.0.0 swiftkey.com
+0.0.0.0 xboxlive.com
+0.0.0.0 xboxab.com
+#
+#------------------------------------[MOZZILA]-------------------------------------
+#
+# Mozzila | Metrics
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 support.mozilla.org
+0.0.0.0 apps.mzstatic.com
+0.0.0.0 push.services.mozilla.com
+0.0.0.0 classify-client.services.mozilla.com
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 shavar.services.mozilla.com
+#
+#------------------------------------[SAMSUNG]-------------------------------------
+#
+# Samsung | Marketing
+0.0.0.0 samsungads.com
+0.0.0.0 samsungdm.com
+#
+# Samsung | Others
+0.0.0.0 samsungiotcloud.com
+0.0.0.0 samsungosp.com
+0.0.0.0 samsungqbe.com
+0.0.0.0 wuaki.tv
+#
+#------------------------------------[TWITTER]-------------------------------------
+#
+# Twitter | Marketing
+0.0.0.0 ads-twitter.com
+#
+# -----------------------------------[YAHOO!]--------------------------------------
+#
+# Yahoo! | Marketing
+0.0.0.0 adserver.yahoo.com
